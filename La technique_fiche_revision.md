@@ -1,5 +1,3 @@
-Here is a detailed revision note on the theme of "La technique" in philosophy:
-
 **Theme:** La technique
 
 **Definitions:**
@@ -23,11 +21,11 @@ Here is a detailed revision note on the theme of "La technique" in philosophy:
 
 La technique est la marque de l'intelligence humaine et doit être valorisée. Cependant, cette intelligence peut également devenir un outil de domination dévastateur pour la nature et finalement pour l'humanité elle-même.
 
-Additional points to deepen the understanding:
+Points supplémentaires pour approfondir la compréhension :
 
-* **The relationship between technique and science**: The article highlights that technology is a combination of science and technique.
-* **The role of polyvalence in human intelligence**: The ability to solve new problems requires a great deal of polyvalence, which is unique to humans.
-* **The dangers of technological progress**: Heidegger's concept of "arraisonnement de la nature" highlights the risks of considering nature as a resource to be exploited.
-* **The impact of technique on human society**: The article touches upon how technology has changed the way we work and live, making it more interesting and efficient.
+* **La relation entre technique et science** : L'article souligne que la technologie est une combinaison de science et de technique.
+* **Le rôle de la polyvalence dans l'intelligence humaine** : La capacité à résoudre de nouveaux problèmes nécessite une grande polyvalence, propre à l'humain.
+* **Les dangers du progrès technologique** : Le concept heideggerien d'"aménagement de la nature" met en évidence les risques de considérer la nature comme une ressource à exploiter.
+* **L'impact de la technique sur la société humaine** : L'article aborde la façon dont la technologie a changé notre façon de travailler et de vivre, la rendant plus intéressante et efficace.
 
-These additional points can help deepen your understanding of the theme and its related concepts.
+Ces points supplémentaires peuvent vous aider à approfondir votre compréhension du thème et de ses concepts associés.
