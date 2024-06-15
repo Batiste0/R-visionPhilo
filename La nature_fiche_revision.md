@@ -1,5 +1,3 @@
-Voici une fiche de révision sur le thème "La nature" pour la philosophie :
-
 **Thème : La nature**
 
 **Définitions**
@@ -14,10 +12,10 @@ Voici une fiche de révision sur le thème "La nature" pour la philosophie :
 * La force et la valeur de l'être humain dans sa capacité à dépasser la nature en la transformant et en l'améliorant.
 * La culture comme moyen d'évolution et de transformation de l'homme, au-delà de son instinct naturel.
 
-**Auteurs**
+**Auteurs et œuvres**
 
-* **Freud**: selon lui, le processus de civilisation implique la maîtrise des pulsions animales grâce à l'apparition du sur-moi. Cela signifie que l'être humain doit apprendre à maîtriser ses instincts naturels pour devenir un être civilisé.
-* **Michael Tomasello**: selon lui, le savoir s'accumule et progresse chez l'homme au point où aucun individu ne pourrait réinventer les objets techniques que nous utilisons chaque jour. Cela montre la puissance de la culture dans l'évolution de l'être humain.
+* **Sigmund Freud** : Selon lui, le processus de civilisation implique la maîtrise des pulsions animales grâce à l'apparition du surmoi. Cela signifie que l'être humain doit apprendre à maîtriser ses instincts naturels pour devenir un être civilisé. Ses idées sont développées dans **"Malaise dans la civilisation"**.
+* **Michael Tomasello** : Selon lui, le savoir s'accumule et progresse chez l'homme au point où aucun individu ne pourrait réinventer les objets techniques que nous utilisons chaque jour. Cela montre la puissance de la culture dans l'évolution de l'être humain. Ses idées sont principalement exposées dans **"Les origines culturelles de la cognition humaine"**.
 
 **Conclusion**
 
@@ -25,8 +23,6 @@ La nature est un thème complexe qui renvoie à la question de l'ordre cosmique,
 
 **Ajout de connaissances**
 
-* La notion de "techné" chez Aristote : selon lui, l'homme est capable de transformer la nature en créant des artefacts qui permettent de résoudre les problèmes liés à la vie.
-* La théorie de l'évolution par Charles Darwin : cette théorie montre que l'être humain est le résultat d'un processus de sélection naturelle qui a permis de développer les caractéristiques spécifiques de notre espèce.
-* La philosophie écologique contemporaine (Rousseau, Leibniz) : ces auteurs s'intéressent à la relation entre l'homme et la nature, et mettent en avant l'importance de trouver un équilibre entre les besoins humains et la conservation de l'environnement.
-
-J'espère que cela vous aidera à réviser le thème "La nature" dans la philosophie !
+* **La notion de "techné" chez Aristote** : Selon lui, l'homme est capable de transformer la nature en créant des artefacts qui permettent de résoudre les problèmes liés à la vie. Ces idées sont développées dans **"Physique"** et **"Métaphysique"**.
+* **La théorie de l'évolution par Charles Darwin** : Cette théorie montre que l'être humain est le résultat d'un processus de sélection naturelle qui a permis de développer les caractéristiques spécifiques de notre espèce. Les idées de Darwin sont présentées dans **"L'Origine des espèces"**.
+* **La philosophie écologique contemporaine (Jean-Jacques Rousseau, Leibniz)** : Ces auteurs s'intéressent à la relation entre l'homme et la nature, et mettent en avant l'importance de trouver un équilibre entre les besoins humains et la conservation de l'environnement. Rousseau aborde ces thèmes dans **"Discours sur l'origine et les fondements de l'inégalité parmi les hommes"** et Leibniz dans **"Essais de Théodicée"**.
